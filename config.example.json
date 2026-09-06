@@ -1,0 +1,5 @@
+{
+  "smtp_user": "seu-email@gmail.com",
+  "smtp_pass": "sua-senha-de-app-do-gmail",
+  "smtp_to": "para-quem-enviar-o-alerta@gmail.com"
+}
